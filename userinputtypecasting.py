@@ -1,0 +1,5 @@
+a=input("enter the valu")
+a=int(a)
+b=input("enter the valu")
+b=int(b)
+print("a+b",a+b)
